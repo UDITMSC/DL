@@ -19,3 +19,5 @@ Example: To download the file "1b.py" and save it as "new.py", the command would
 curl https://raw.githubusercontent.com/UDITMSC/DL/main/1ai.py -o new.py
 
 Note: The above example is provided for demonstration purposes and may not be applicable to your use case.
+
+### Please refer to journal.pdf for indexes.
