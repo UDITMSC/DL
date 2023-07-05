@@ -20,4 +20,4 @@ curl https://raw.githubusercontent.com/UDITMSC/DL/main/1ai.py -o new.py
 
 Note: The above example is provided for demonstration purposes and may not be applicable to your use case.
 
-### Note: Please refer to journal.pdf for indexes.
+### Note: Please refer to DLJournal.pdf for indexes.
